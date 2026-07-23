@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)
 
+**English** · [Русский](README.ru.md)
+
 AI slide generators can apply a *brand kit* — your colors, fonts and logo — but they can't
 reproduce **your** corporate template's actual layouts. And most real corporate decks are worse
 than that: they're built by hand, as floating text boxes and full-bleed background images, with
@@ -102,8 +104,6 @@ build_probe("healed.pptx", "preview.pptx")    # one slide per new layout
 This is the engine extracted from a larger project. The AI content-generation, brief pipeline and
 web editor are intentionally **not** included — this repo is the template analysis + healing core,
 usable on its own.
-
-Русская версия: [README.ru.md](README.ru.md).
 
 ## License
 
